@@ -1,0 +1,23 @@
+{
+  "name": "BackboneJS",
+  "authors": [
+    "dalcong2life <dalcong2life@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.12.4",
+    "backbone": "^1.3.3",
+    "backbone.localStorage": "backbone.localstorage#^1.1.16"
+  }
+}
